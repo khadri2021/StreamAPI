@@ -5,7 +5,7 @@ import java.util.List;
 
 import com.khadri.stream.api.collectors.Employee;
 
-public class EmployeeData {
+public class EmployeeStub {
 	private static List<Employee> allEmployee;
 
 	public static List<Employee> getEmployeeData() {
